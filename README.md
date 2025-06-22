@@ -298,5 +298,3 @@ sequenceDiagram
   - Deduct points and log refund in audit trail
 
 ---
-
-All major epics are now mapped to their technical flows, integration APIs, and acceptance criteria. Let me know if you want PDF conversion or presentation formatting.
